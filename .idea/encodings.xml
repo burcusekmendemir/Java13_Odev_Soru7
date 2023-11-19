@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/Runner.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/entity/BireyselMusteri.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/entity/Krediler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/entity/KurumsalMusteri.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/entity/Musteri.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/KrediRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/repository/MusteriRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/burcu/utility/Databases.java" charset="UTF-8" />
+  </component>
+</project>
