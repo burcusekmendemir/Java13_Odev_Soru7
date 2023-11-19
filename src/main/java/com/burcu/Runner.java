@@ -46,7 +46,7 @@ public class Runner {
 
         System.out.println("4561378978 TC Kimlik Numaralı Müşterinin Aylık Geliri: " + musteriRepository.findByTcKimlik("4561378978").getAylikGelir());
         System.out.println();
-        System.out.println("6543219887 Vergi Numaralı Müşterinin Adresi: " +musteriRepository.findByVergiNo("6859452136").getAdres());
+        System.out.println("6859452136 Vergi Numaralı Müşterinin Adresi: " +musteriRepository.findByVergiNo("6859452136").getAdres());
         musteriRepository.findByVergiNo("6859452136").setAdres("Mecidiyeköy");
         System.out.println("Müşterinin adresi: " + musteriRepository.findByVergiNo("6859452136").getAdres() + " olarak güncellenmiştir.");
         musteriRepository.findByVergiNo("6859452136").setUpdateAt("17/11/2023");

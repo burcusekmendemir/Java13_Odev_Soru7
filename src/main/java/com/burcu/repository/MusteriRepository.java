@@ -8,7 +8,7 @@ import com.burcu.utility.Databases;
 public class MusteriRepository implements MusteriInterface{
 
     /**
-     * Kayıt işlemi yapıldığında, yeni kayıtların(müşteri,bireysel müşteri, kurumsal müşteri, kredi)
+     * Kayıt işlemi yapıldığında, yeni kayıtların(müşteri,bireysel müşteri, kurumsal müşteri)
      * ilgili listelerine eklenmesini sağlayan methodlardır.
      */
 
